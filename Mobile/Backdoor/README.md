@@ -28,7 +28,6 @@ adb (Android Debug Bridge) - это инструмент для управлен
  * am - активити менеджер
  * am start - запуск активити на устройстве
  * am start -n - выбор запускаемого активити приложения
- * 
 
 ## Флаг
 PermCTF{MASTER_APPROVED}
