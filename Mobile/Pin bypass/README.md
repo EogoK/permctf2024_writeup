@@ -1,4 +1,4 @@
-# Simply Decompile
+# Pin Bypass
 ## Описание
 ![Описание задания](https://raw.githubusercontent.com/EogoK/permctf2024_writeup/refs/heads/main/photos/pin_bypass.jpg)
 
