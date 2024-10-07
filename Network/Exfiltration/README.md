@@ -1,6 +1,6 @@
-# Dora
+# Exfiltration
 ## Описание
-![Описание задания](https://raw.githubusercontent.com/EogoK/permctf2024_writeup/refs/heads/main/photos/dora.jpg)
+![Описание задания](https://raw.githubusercontent.com/EogoK/permctf2024_writeup/refs/heads/main/photos/exfiltration.jpg)
 
 
 ## Решение 
@@ -8,15 +8,15 @@
 
 1. Открываем файл через wireshark и отфильтруем по протоколам
 
-2. Зная, что DORA базируется на DHCP
+2. Заметим странные символы, напоминающие формат флага
+![Описание задания](https://raw.githubusercontent.com/EogoK/permctf2024_writeup/refs/heads/main/photos/ex_1.png)
 
-3. Видим странные байты в Option -> Host Name каждого пакета, давайте сделаем вывод этих байтов
-![Описание задания](https://raw.githubusercontent.com/EogoK/permctf2024_writeup/refs/heads/main/photos/dora_1.png)
+3. Ввведем посимвольно
 
 ## Ресурсы
 
-https://www.xelent.ru/blog/printsipy-raboty-protokola-dhcp/
+https://habr.com/ru/articles/447240/
 
 
 ## Флаг
-PermCTF{dora_the_traveler}
+PermCTF{b4sic_network_4n4lysis}
