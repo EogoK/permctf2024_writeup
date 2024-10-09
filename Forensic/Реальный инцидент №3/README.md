@@ -15,5 +15,8 @@
 
 ![Описание задания](https://raw.githubusercontent.com/EogoK/permctf2024_writeup/refs/heads/main/photos/rc3_2.png)
 
+4. Как вы возможно и поняли, это была ловушка, поэтому ищем дальше и переходим на следующую страничку
+    
+
 ## Флаг
-PermCTF{ООО_Batman_1s_her3}
+PermCTF{ООО_АК_ЭЙРБРИДЖКАРГО}
