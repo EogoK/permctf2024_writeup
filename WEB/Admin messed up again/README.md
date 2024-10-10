@@ -11,7 +11,7 @@
 ![Описание задания](https://raw.githubusercontent.com/EogoK/permctf2024_writeup/refs/heads/main/photos/am.png)
 
 
-3. по пути 127.0.0.1:8080/admin.txt авторизуемся
+3. по пути 84.201.151.173:8080/admin.txt авторизуемся
 
 
 ## Флаг

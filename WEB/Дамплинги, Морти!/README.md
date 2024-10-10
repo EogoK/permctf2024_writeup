@@ -10,9 +10,9 @@
 2. 
 ```
 git_dumper.py:
-python3 git_dumper.py http://127.0.0.1:8080/.git /tmp/webs
+python3 git_dumper.py http://84.201.168.221:8080/.git /tmp/webs
 
-[-] Already downloaded http://127.0.0.1:8080/.git/COMMIT_EDITMSG
+[-] Already downloaded http://84.201.168.221:8080/.git/COMMIT_EDITMSG
 ```
 
 3. Переходим по пути в файл
