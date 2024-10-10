@@ -77,6 +77,7 @@ select * From Jerry_Smith;
 
 ## Ресурсы
 
+https://docs.metasploit.com/
 https://github.com/rapid7/metasploit-framework/blob/master/documentation/developers_guide.pdf
 
 ## Флаг
